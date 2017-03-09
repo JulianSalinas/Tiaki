@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">TIAKI</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main">TIAKI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Related to login -->
+    <string name="text_user">Usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="text_sign_in">Ingresar</string>
+    <string name="text_sign_out">Salir</string>
+    <string name="text_login">| Iniciar Sesión </string>
+    <string name="error_invalid_user">Usuario inválido</string>
+    <string name="error_invalid_password">Contraseña inválida</string>
+    <string name="error_invalid_count">Cuenta inválida</string>
+    <string name="error_field_required">El campo es requerido</string>
+
+    <!-- Main menu-->
+    <string name="text_customers">Clientes</string>
+    <string name="text_residencies">Residencias</string>
+    <string name="text_residents">Residentes</string>
+    <string name="text_homeowners">Propietarios</string>
+    <string name="text_guards">Guardias</string>
+    <string name="text_registry">Registro</string>
+    <string name="text_visitors">Visitantes</string>
+
+    <!-- List add customer -->
+    <string name="customer_id">ID Cliente</string>
+    <string name="customer_name">Nombre</string>
+    <string name="customer_address">Dirección</string>
+
+    <!-- Miscellaneous -->
+    <string name="text_profile">Mi perfil</string>
+    <string name="text_crud">Acción</string>
+    <string name="text_create">Crear</string>
+    <string name="text_read">Consultar</string>
+    <string name="text_delete">Borrar</string>
+    <string name="text_update">Actualizar</string>
+    <string name="text_ready">Listo!</string>
+    <string name="text_yes">SI</string>
+    <string name="text_no">NO</string>
+    <string name="text_new">NUEVO</string>
+    <string name="error_no_permission">Permiso denegado!</string>
+    <string name="text_dummy">Dummy text</string>
+
+    <string name="text_alert">Esta a punto de eliminar este elemento</string>
+    <string name="text_alert_question">¿Seguro que desea continuar?</string>
+
+    <string name="welcome_fragment">Bienvenido</string>
+
+</resources>
