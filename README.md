@@ -1,10 +1,15 @@
 # Tiaki
 ==========
 
-* Nota: Cada vigilantes posee toda la informacion del residencial al que pertenece\n
+* Nota: Cada vigilantes posee toda la informacion del residencial al que pertenece
 
-==========
+#### Uso del servicio
 
+
+  | #### Obtener todos los residenciales. http://localhost:61495/api/Residencial |
+  |:-------|
+  
+    
 #### Obtener todos los residenciales.
     http://localhost:61495/api/Residencial
 
