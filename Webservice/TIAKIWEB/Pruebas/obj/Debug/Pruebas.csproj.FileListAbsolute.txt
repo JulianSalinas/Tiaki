@@ -1,0 +1,7 @@
+D:\WSTIAKI\Solution1\Pruebas\bin\Debug\Pruebas.exe.config
+D:\TIAKIWEB\Pruebas\bin\Debug\Pruebas.exe.config
+D:\TIAKIWEB\Pruebas\bin\Debug\Pruebas.exe
+D:\TIAKIWEB\Pruebas\bin\Debug\Pruebas.pdb
+D:\TIAKIWEB\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+D:\TIAKIWEB\Pruebas\obj\Debug\Pruebas.exe
+D:\TIAKIWEB\Pruebas\obj\Debug\Pruebas.pdb
