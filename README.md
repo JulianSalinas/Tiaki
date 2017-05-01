@@ -5,10 +5,10 @@
 
 ==========
 
-### Obtener todos los residenciales.
+#### Obtener todos los residenciales.
     http://localhost:61495/api/Residencial
 
-### Obtener todos los vigilantes.
+#### Obtener todos los vigilantes.
     http://localhost:61495/api/Vigilante?turno=Todos
 
 * Obtener los vigilantes del turno actual.
