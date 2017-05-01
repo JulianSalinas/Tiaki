@@ -5,7 +5,7 @@
 
 #### Uso del servicio.
 
-#### Obtener todos los residenciales.
+* Obtener todos los residenciales.
 | http://localhost:61495/api/Residencial |
 |:-------|
 
